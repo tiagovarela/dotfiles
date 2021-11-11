@@ -1,0 +1,17 @@
+[user]
+  name = Tiago Varela
+  signingkey = public
+[push]
+  default = simple
+[alias]
+  st = status
+  ci = commit -v
+  dc = diff --cached
+  co = checkout
+  ap = add -p
+[core]
+  excludesfile = ~/.gitignore_global
+[pull]
+  ff = only
+[include]
+  path = ~/.gitconfig.local
