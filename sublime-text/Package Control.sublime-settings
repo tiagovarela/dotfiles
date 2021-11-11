@@ -1,0 +1,15 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "Github Tools",
+    "Package Control",
+    "Predawn",
+    "Pretty JSON",
+    "SaltStack-related syntax highlighting and snippets",
+    "Terraform",
+  ],
+}
